@@ -5,3 +5,8 @@
 - Linear regression model with two-dimensional features
 - Logistic regression model to perform binary classification
 - Image binary classification using training and test sets
+
+# Some Python packages and features that I explored include: #
+- Pytorch
+- Matplotlib
+- Numpy
